@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0acc484a-0b43-4857-a9d0-60f1fcdd4851" name="Default Changelist" comment="" />
+    <list default="true" id="0acc484a-0b43-4857-a9d0-60f1fcdd4851" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Block/Head.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Block/Head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/deleteItem.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/deleteItem.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/view/partials/insert.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/view/partials/insert.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/view/partials/plp.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/view/partials/plp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pub/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +20,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -38,13 +49,13 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shit\Desktop\try" />
+      <recent name="C:\Users\Shit\Desktop\try\core\Database" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Shit\Desktop\try\Core" />
       <recent name="C:\Users\Shit\Desktop\try\app\controllers" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Shit\Desktop\try\core\Database" />
-      <recent name="C:\Users\Shit\Desktop\try" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -66,6 +77,8 @@
       <workItem from="1582484973342" duration="305000" />
       <workItem from="1582487088912" duration="176000" />
       <workItem from="1582487403823" duration="684000" />
+      <workItem from="1582904722317" duration="204000" />
+      <workItem from="1582905019948" duration="33000" />
     </task>
     <servers />
   </component>

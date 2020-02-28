@@ -1,26 +1,26 @@
 <html>
 <?php
 
-include "../Pages/Block/Head.php";
-include "../Pages/deleteItem.php";
+include "Pages/Block/Head.php";
+include "Pages/deleteItem.php";
 ?>
 <body>
 <form action="" method="post">
 
 
-    <?php require "../app/view/partials/Menu/navMenu.php" ?>
+    <?php require "app/view/partials/Menu/navMenu.php" ?>
     <main>
         <div class="slide">
             <div class="sideBar_logo">
-                <img src="media/logo.png">
+                <img src="pub/media/logo.png">
             </div>
 
-            <?php require "../app/view/partials/slider.php" ?>
+            <?php require "app/view/partials/slider.php" ?>
 
 
         </div>
         <div class="body_struct">
-            <?php require "../app/view/partials/Menu/sideMenu.php" ?>
+            <?php require "app/view/partials/Menu/sideMenu.php" ?>
 
             <div class="prod_catalog">
                 <div>
@@ -31,10 +31,10 @@ include "../Pages/deleteItem.php";
                     </select>
                 </div>
                 <div class="change" id="prod_Appear">
-                    <?php require "../app/view/partials/plp.php" ?>
+                    <?php require "app/view/partials/plp.php" ?>
                 </div>
                 <div class="change" id="prod_New">
-                    <?php require "../app/view/partials/insert.php" ?>
+                    <?php require "app/view/partials/insert.php" ?>
                 </div>
             </div>
     </main>

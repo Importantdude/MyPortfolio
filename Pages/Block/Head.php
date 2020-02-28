@@ -1,6 +1,6 @@
 <head>
     <?php
-    include "../vendor/autoload.php"; // __DIR__ is the way to main directory
+    include "vendor/autoload.php"; // __DIR__ is the way to main directory
     // "../.." is get away to privoius directories two times
 
     ?>

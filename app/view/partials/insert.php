@@ -1,5 +1,5 @@
 <?php
-include "../Pages/Block/Head.php";
+include "Pages/Block/Head.php";
 ?>
 
 

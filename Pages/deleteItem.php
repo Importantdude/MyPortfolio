@@ -2,8 +2,8 @@
 
 use Controllers\Product;
 
-include "../Core/Database/Connect.php";
-include "../Core/Database/Product.php";
+include "Core/Database/Connect.php";
+include "Core/Database/Product.php";
 session_start();
 include "Block/Head.php";
 $product = new Product();
